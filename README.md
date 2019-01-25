@@ -7,3 +7,5 @@ how to create an inline style for my navbar,
 how to use the developer tools to debug the index.html file,
 how to create an input element with a search attribute,
 how to create an input element with a button attribute.
+
+Shared link:  From The Odin Project's google-homepage(http://www.theodinproject.com/courses/web-development-101/lessons/html-css) 
